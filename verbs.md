@@ -49,30 +49,32 @@ vowel-stems
 ===
 
 Abbreviation Explanation
-adj-i	adjective (keiyoushi)
-adj-na	adjectival nouns or quasi-adjectives (keiyodoshi)
+adj-i	adjective (形容詞)
+adj-na	adjectival nouns or quasi-adjectives (形容動詞)
 adj-t	'taru' adjective
 adv-to	adverb taking the 'to' particle
+---
 aux	auxiliary
 aux-v	auxiliary verb
 aux-adj	auxiliary adjective
+---
 v1	Ichidan verb
 v5	Godan verb (not completely classified)
-v5aru	Godan verb - -aru special class
-v5b	Godan verb with 'bu' ending
-v5g	Godan verb with 'gu' ending
-v5k	Godan verb with 'ku' ending
-v5k-s	Godan verb - Iku/Yuku special class
-v5m	Godan verb with 'mu' ending
-v5n	Godan verb with 'nu' ending
-v5r	Godan verb with 'ru' ending
-v5r-i	Godan verb with 'ru' ending (irregular verb)
-v5s	Godan verb with 'su' ending
-v5t	Godan verb with 'tsu' ending
-v5u	Godan verb with 'u' ending
-v5u-s	Godan verb with 'u' ending (special class)
-vk	Kuru verb - special class
-vs	noun or participle which takes the aux. verb suru
+*v5aru	Godan verb - -aru special class*
+v5b	Godan verb with 'bu' ending　ぶ
+v5g	Godan verb with 'gu' ending　ぐ
+v5k	Godan verb with 'ku' ending　く
+*v5k-s	Godan verb - Iku/Yuku special class* 行く
+v5m	Godan verb with 'mu' ending　む
+v5n	Godan verb with 'nu' ending　ぬ
+v5r	Godan verb with 'ru' ending　る
+*v5r-i	Godan verb with 'ru' ending (irregular verb)* ある
+v5s	Godan verb with 'su' ending　す
+v5t	Godan verb with 'tsu' ending　つ
+v5u	Godan verb with 'u'  ending　う
+*v5u-s	Godan verb with 'u' ending (special class)*　問う
+*vk	Kuru verb - special class*　来る
+*vs	noun or participle which takes the aux. verb suru*　する
 
 
 1. 词以「る」结尾
