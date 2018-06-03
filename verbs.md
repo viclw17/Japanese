@@ -4,6 +4,8 @@
 * て形
 * た形
 
+---
+
 # Type I/五段動詞
 consonant-stems
 * く　書く・かく　　書きます　書かない　書いて　書いた
@@ -19,21 +21,23 @@ consonant-stems
 
 * す　話す・はなす　話します　話さない　話して　話した
 
-===
 
 * う exceptions:
     * 問う tou "to question" which conjugates to 問うて toute
     * 請う kou "to request" which conjugates to 請うて koute
 * く exception: 行く iku which conjugates to いって itte.
 
+---
+
 # Type II/一段動詞
 vowel-stems
 * いる　見る　　　見ます　　見ない　　見て　　見た  （る前是い或え段的动词）
 * える　食べる　　食べます　食べない　食べて　食べた
 
-===
 
 * Type II exceptions: 要走滑入，减切知归（要る、走る、滑る、入る、減る、切る、知る、帰る）are Type I
+
+---
 
 # Type III
 
@@ -44,21 +48,30 @@ vowel-stems
 ## カ変動詞
 * 来る・くる　きます　こない　きて　きた
 
-===
+---
+
+# 关于一段动词：
+1. 词以る结尾
+2. る前的一个假名（即词的倒数第二个假名）必定在い段或え段上
+3. 倒数第二个假名是い段的称为上一段动词，是え段的称为下一段动词。
+
+举例分析：
+- 起きる（おきる）- 上一段动词（いる）
+- 食べる（たべる）- 下一段动词（える）
+- 分かる（わかる）- 不符合特征2，所以不是一段动词，而是五段动词。
+- 読む　（よむ）　- 不符合特征1，所以不是一段动词，而是五段动词。
+- 限る　（かぎる）- 符合一段动词的特征（いる），但属于五段动词，需要专门记忆。
+
+---
 
 # Abbreviation Explanation
 - adj-i	adjective (形容詞)
 - adj-na	adjectival nouns or quasi-adjectives (形容動詞)
 - adj-t	'taru' adjective
 - adv-to	adverb taking the 'to' particle
-
-
 - aux	auxiliary
 - aux-v	auxiliary verb
 - aux-adj	auxiliary adjective
-
-
-
 - v1	Ichidan verb
 - v5	Godan verb (not completely classified)
 - *v5aru	Godan verb - -aru special class*
@@ -76,18 +89,3 @@ vowel-stems
 - *v5u-s	Godan verb with 'u' ending (special class)*　問う
 - *vk	Kuru verb - special class*　来る
 - *vs	noun or participle which takes the aux. verb suru*　する
-
-
-
-
-
-- 词以「る」结尾
-- 「る」前的一个假名（即词的倒数第二个假名）必定在い段或え段上
-- 倒数第二个假名是い段的称为上一段动词，是え段的称为下一段动词。
-
-举例分析：
-- 起きる（おきる） ——上一段动词
-- 食べる（たべる） ——下一段动词
-- 分かる（わかる） ——不符合特征2，所以不是一段动词，而是五段动词。
-- 読む（よむ） ——不符合特征1，所以不是一段动词，而是五段动词。
-- 限る（かぎる） ——符合一段动词的特征，但属于五段动词，需要专门记忆。
