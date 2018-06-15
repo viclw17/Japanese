@@ -1,5 +1,5 @@
 
-https://en.wiktionary.org/wiki/Appendix:Japanese_verbs
+[Appendix:Japanese_verbs](https://en.wiktionary.org/wiki/Appendix:Japanese_verbs)
 # Conjugation classes
 ## Five-grade (五段)
 - 辞書形　未然形　　連用形　　終止形　連体形　仮定形　命令形　意向形　音便形　　　　　
